@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Kelsey L. Canada, Ph.D. # the website title (if blank, full name will be used instead)
 first_name: Kelsey
 middle_name: L.
 last_name: Canada
@@ -59,7 +59,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email is the best way to get in touch.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -77,7 +77,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: k.l.c. # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -143,8 +143,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Canada
+  first_name: [Kelsey, A.]
 
   style: apa
   locale: en
