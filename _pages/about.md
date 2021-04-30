@@ -21,4 +21,4 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 I am currently a Postdoctoral Fellow working with both [Dr. Noa Ofen](http://ofenlab.wayne.edu){:target="\_blank"} and [Dr. Ana Daugherty](https://s.wayne.edu/healthyaging/){:target="\_blank"} at Wayne State Univeristy.
 
-You can find my full [CV](Canada_Kelsey_CV_21.pdf){:target="\_blank"} here.
+You can find my full [CV](src="{{ '/assets/pdf/Canada_Kelsey_CV_21.pdf' | relative_url }}"){:target="\_blank"} here.
