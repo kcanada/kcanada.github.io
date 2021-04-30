@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: The amazing improvements in children's cognitive abiltiies, espeically memory, across development never cease to amaze me. My research interests focus on examining the neural substrates supporting improvements in memory, understanding episodic memory development by using different tasks with varying mnemonic demanads, and characterizing the longitudinal development within and across domains by applying latent modeling methods.
+description: update
 nav: true
-display_categories: [main research, hippocampal subfields group]
+display_categories: [work, fun]
 horizontal: false
 ---
 <div class="projects">

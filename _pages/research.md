@@ -2,9 +2,9 @@
 layout: page
 title: research
 permalink: /research/
-description: The amazing improvements in children's cognitive abiltiies, espeically memory, across development never cease to amaze me. My research interests focus on examining the neural substrates supporting improvements in memory, understanding episodic memory development by using different tasks with varying mnemonic demanads, and characterizing the longitudinal development within and across domains by applying latent modeling methods.
+description: The amazing improvements in children's cognitive abilities, espeically memory, across development never cease to amaze me. My research interests focus on examining the neural substrates supporting improvements in memory, understanding episodic memory development by using different tasks with varying mnemonic demanads, and characterizing the longitudinal development within and across domains by applying latent modeling methods.
 nav: true
-display_categories: [main reearch, hippocampal subfields group]
+display_categories: [main research, hippocampal subfields group]
 horizontal: false
 ---
 <div class="projects">
