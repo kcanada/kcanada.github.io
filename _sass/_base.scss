@@ -52,12 +52,13 @@ overflow: hidden;
   width: 100%;
 
   .address {
-    margin-bottom: 5px;
+    margin-bottom: 10x;
     margin-top: 5px;
-    font-family: monospace;
-    font-size: 1.2rem;
+    font-family: roboto;
+    font-size: .93rem;
     p {
       display: inline-block;
+text-align: center;
       margin: 0;
     }
   }
