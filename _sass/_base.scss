@@ -226,7 +226,7 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $grey-color-lesslight;
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
@@ -236,7 +236,7 @@ footer.sticky-bottom {
 // Blog
 
 .header-bar {
-  border-bottom: 1px solid $grey-color-light;
+  border-bottom: 1px solid $grey-color-lesslight;
   text-align: center;
   padding-top: 2rem;
   padding-bottom: 5rem;
@@ -251,7 +251,7 @@ footer.sticky-bottom {
   margin-bottom: 0px;
   padding: 0;
   li {
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid $grey-color-lesslight;
     list-style: none;
     padding-top: 2rem;
     padding-bottom: 2rem;
@@ -346,8 +346,8 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: $grey-color-light;
-    border-bottom: 1px solid $grey-color-light;
+    color: $grey-color-lesslight;
+    border-bottom: 1px solid $grey-color-lesslight;
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
