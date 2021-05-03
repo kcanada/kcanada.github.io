@@ -10,7 +10,7 @@ profile:
   address: >
     <p>kcanada[at]wayne.edu</p>
      <p>twitter:<span style="text-decoration:underline"><a href="https://twitter.com/kelseylcanada" target="_blank" rel="noopener">@kelseylcanada</a></p>
-     <p><i>pronouns: <b>she/her</i></b>
+     <p><i>pronouns: <b>she/her</i></b></p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
