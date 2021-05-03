@@ -43,6 +43,11 @@ a, table.table a {
 // Profile
 
 .profile {
+.image{border-radius:100%;
+box-shadow: none;
+overflow: hidden;
+      padding: none;
+      border: 0px solid;};
   margin-left: 1rem;
   width: 100%;
 
@@ -181,7 +186,7 @@ a, table.table a {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
     a {
       i::before {
         color: var(--global-text-color);
@@ -241,7 +246,7 @@ footer.sticky-bottom {
 
 .post-list {
   margin: 0;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
   padding: 0;
   li {
     border-bottom: 1px solid $grey-color-light;
