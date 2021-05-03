@@ -42,6 +42,7 @@
             </a>
           </li>
           {% endif %}
+           
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
@@ -56,6 +57,9 @@
           </li>
           {% endif %}
           {% endfor %}
+          <!-- CV link -->
+ 
+ <li class="nav-item {% if page.title == 'vitae' %}active{% endif %}"><a class="nav-link" href="{{ '/assets/pdf/Canada_Kelsey_CV_21.pdf' | prepend: site.baseurl | prepend: site.url }}">vitae<span class="sr-only">(current)</span></a></li>
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">
