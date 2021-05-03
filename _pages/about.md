@@ -6,7 +6,7 @@ description: <a href="https://iog.wayne.edu">Postdoctoral Fellow</a> studying th
 
 profile:
   align: right
-  image: Kelsey.jpg
+  image: Kelsey_round.png
   address: >
     <p>Institute of Gerontology</p>
     <p>87 East Ferry Street</p>
