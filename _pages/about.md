@@ -23,4 +23,3 @@ Specifically, my research focuses on the development of episodic memory and its 
 
 I am currently a Postdoctoral Fellow working with [Dr. Noa Ofen](http://ofenlab.wayne.edu){:target="\_blank"} and [Dr. Ana Daugherty](https://s.wayne.edu/healthyaging/){:target="\_blank"} at Wayne State University. I completed my doctoral training under the advisement of [Dr. Tracy Riggins](http://ncdl.umd.edu){:target="\_blank"} at the University of Maryland. 
 
-You can find my full [CV](https://kcanada.github.io/assets/pdf/Canada_Kelsey_CV_21.pdf){:target="\_blank"} here.
