@@ -5,6 +5,8 @@
 <title>{% if site.title == "blank" %}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{% else %}{{ site.title }}{% endif %}{% if page.title and page.url != "/" %} | {{ page.title }}{% endif %}</title>
 <meta name="description" content="{{ site.description }}">
 
+<link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | prepend: site.baseurl | prepend: site.url }}">
+
 <!-- Open Graph -->
 {% if site.serve_og_meta %}
 <meta property="og:site_name" content="{{ site.description }}" />
