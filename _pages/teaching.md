@@ -18,8 +18,8 @@ nav: true
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0" font-black>Spring 2021 - Guest Lecturer</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush font-black">
+    <h6 class="font-italic mt-2 mt-sm-0">Spring 2021 - Guest Lecturer</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">○ Undergraduate course covering fundamental theories, concepts, and empirical findings in field of learning. I lectured in two sections of the course, one taught by <a href="https://iog.wayne.edu/profile/fb1335" target="_blank">Dr. Lingfei Tang</a> and the other by <a href="https://clasprofiles.wayne.edu/profile/fi8271" target="_blank">Dr. Qijing Yu</a>.</li>
       <li class="list-group-item">○ "Emotional Influences on Learning and Memory".</li>
       <li class="list-group-item">○ "Learning and Memory Across the Lifespan".</li>
@@ -45,6 +45,7 @@ nav: true
       <li class="list-group-item">○ Taught by  <a href="http://www.dscn.umd.edu/DSCN/home.html" target="_blank">Dr. Elizabeth Redcay</a>.</li>
       <li class="list-group-item">○ Add.</li>
     </ul>
+    <ul></ul>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2018: Co-Instructor</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">○ Co-taught with <a href="https://http://ncdl.umd.edu" target="_blank">Dr. Tracy Riggins</a>.</li>
