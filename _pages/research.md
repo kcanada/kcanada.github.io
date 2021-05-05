@@ -50,8 +50,10 @@ My work showed hippocampal subfields differentially develop within head and body
 <div class="row">
     <div class="col-sm mt-5 mt-md-0">
         <img class="img-fluid rounded z-depth-1" style="max-width: 50%; height:auto; display: block; margin-left: auto; margin-right: auto;" src="{{ '/assets/img/CerebralCortextDGPS.jpg' | relative_url }}" alt="" title="example image"/>
+        
 <div class="caption">
     Figure adapted from Canada et al., 2019 <span style="font-style:italic">Cereb. Cor.</span>
+</div>
 </div>
 </div>
 In a cross-sectional sample of 4- to 8-year-olds, age moderated the relation between variability in CA2-3/DG volume and mnemonic discrimination (i.e., a behavioral index of pattern separation). Larger volumes related to better performance in younger children while smaller volumes related to better performance in older children.
