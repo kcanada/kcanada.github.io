@@ -47,7 +47,7 @@ nav: true
       <li class="list-group-item">○ I will add more info.</li>
     </ul>
     <h6 class="font-italic mt-2 mt-sm-0" style="color:black">Spring 2018: Co-Instructor</h6>
-    <h6 style="color:black">course co-taught with <a href="https://http://ncdl.umd.edu" target="_blank">Dr. Tracy Riggins</a></h6>
+    <h6 style="color:black">course co-taught with <a href="https://ncdl.umd.edu" target="_blank">Dr. Tracy Riggins</a></h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color:black">
       <li class="list-group-item">○ This was a fun time! More soon.</li>
     </ul>
@@ -56,7 +56,7 @@ nav: true
       <li class="list-group-item">○ Yes, I need add the deets.</li>
     </ul>
     <h6 class="font-italic mt-2 mt-sm-0" style="color:black">Spring 2019: Graduate Teaching Assistant</h6>
-        <h6 style="color:black">course taught by <a href="https://http://ncdl.umd.edu" target="_blank">Dr. Tracy Riggins</a></h6>
+        <h6 style="color:black">course taught by <a href="https://ncdl.umd.edu" target="_blank">Dr. Tracy Riggins</a></h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color:black">
       <li class="list-group-item">○ Will add soon.</li>
     </ul>
