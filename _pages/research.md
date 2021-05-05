@@ -7,14 +7,14 @@ nav: true
 ---
 
 <h2 class="card-title text-center"><span style="font-weight:bold">overview</span></h2>
-<p class="text-center">The amazing improvements in children's cognitive abilities, espeically episodic memory, across development never cease to amaze me. The goal of my research is to progress our understanding of how and why cognitive abilities change from childhood to adulthood. My focused interest is in how these changes are related to brain development.</p>
+<p class="text-center">The amazing improvements in children's cognitive abilities, especially  episodic memory, across development never cease to amaze me. The goal of my research is to progress our understanding of how and why cognitive abilities change from childhood to adulthood. My focused interest is in how these changes are related to brain development.</p>
 
-<p class="text-center">I conduct multidisciplinary and collaborative research on the healthy development of the hippocampus in order to understand the role of this structure in supporting cognitive gains observed across development. </p>
+<p class="text-center">I conduct multidisciplinary and collaborative research on the healthy development of the hippocampus to understand the role of this structure in supporting cognitive gains observed across development. </p>
 <br>
 <h4 class="text-center"><span style="font-weight:bold">hippocampal development in early childhood</span></h4>
 Across development, the hippocampus is critical to a range of cognitive and emotional processes important for survival and daily functioning, including episodic memory. 
 
-This region is complex, and can be divided along its longitudinal axis into subregions (head, body, and tail) and into functionally-distinct subunits (subfields: cornu ammonis (CA) 1-3, dentate gyrus (DG), and subiculum).
+This region is complex and can be divided along its longitudinal axis into subregions (head, body, and tail) and into functionally distinct subunits (subfields: cornu ammonis (CA) 1-3, dentate gyrus (DG), and subiculum).
 
 <div class="row">
     <div class="col-sm mt-5 mt-md-0">
@@ -44,7 +44,7 @@ This region is complex, and can be divided along its longitudinal axis into subr
     Figure from Canada, Hancock, & Riggins, 2021. <span style="font-style:italic">Dev. Cog. Neuro</span>
 </div>
 
-My work showed hippocampal subfields diffentially develop within head and body. In hippocampal head, CA1 volume increases between 4 to 5 years. In hippocampal body, CA2-4/DG and subiculum volume increase between 5 to 6 years.
+My work showed hippocampal subfields differentially develop within head and body. In hippocampal head, CA1 volume increases between 4 to 5 years. In hippocampal body, CA2-4/DG and subiculum volume increase between 5 to 6 years.
 
 <h4 class="text-center"><span style="font-weight:bold">neural correlates supporting gains in young children's memory</span></h4>
 <div class="row">
