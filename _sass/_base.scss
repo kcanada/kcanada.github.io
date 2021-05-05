@@ -318,12 +318,13 @@ footer.sticky-bottom {
     .card {
       img {
         width: auto;
+align-items: center;
       }
     }
   }
 
   .grid-item {
-    width: 250px;
+    width: max;
     margin-bottom: 10px;
 
     a {
@@ -337,7 +338,7 @@ footer.sticky-bottom {
 
     .card {
       img {
-        width: 100%;
+        width: 80%;
       }
       .card-title {
         color: $black-color;
