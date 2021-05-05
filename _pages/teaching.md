@@ -60,7 +60,7 @@ nav: true
     <ul class="card-text font-weight-light list-group list-group-flush" style="color:black">
       <li class="list-group-item">○ Will add soon.</li>
     </ul>
-        <h6 class="font-italic mt-2 mt-sm-0" style="color:black">Fall 2020: Graduate Teaching Assistant</h6><h6 style="color:black">course taught by <a href="https://scholar.google.com/citations?user=DMdUptIAAAAJ" target="_blank">Dr. Jonathan Beier</a></h6>
+        <h6 class="font-italic mt-2 mt-sm-0" style="color:black">Fall 2019: Graduate Teaching Assistant</h6><h6 style="color:black">course taught by <a href="https://scholar.google.com/citations?user=DMdUptIAAAAJ" target="_blank">Dr. Jonathan Beier</a></h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color:black">
       <li class="list-group-item">○ I swear, I will.</li>
     </ul>
